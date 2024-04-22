@@ -1,5 +1,7 @@
 # 42cursus - Born2beroot
 
+[Born2beroot.pdf](https://github.com/MarkosComK/42-Born2beroot/files/15061818/en.subject.pdf)
+
 ## Table of Contents
 1. [Introduction](#introduction)
     - [What is a Virtual Machine?](#Virtual-Machine)
